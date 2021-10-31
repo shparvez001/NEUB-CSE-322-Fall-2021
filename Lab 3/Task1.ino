@@ -1,8 +1,3 @@
-# NEUB CSE 322 Fall 2021 Lab 3
-Find all Codes at  [Lab 2](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%203).
-## Task 1
-PWM generation function
-```c
 #include<avr/io.h>
 #include<util/delay.h>
 void pwm(char port, int duty)
@@ -42,5 +37,21 @@ int main()
     pwm('B',50);
   }
 }
-```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
