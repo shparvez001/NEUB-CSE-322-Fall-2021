@@ -2,6 +2,7 @@
 CSE 322 class notebook.
 ## List of Labs
 1. [Lab 1](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%201.md).
+	1. General discussion and software installation.
 2. [Lab 2](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%202.md).
 	1. Configuring input and output
 	2. Using delay to flash LED
