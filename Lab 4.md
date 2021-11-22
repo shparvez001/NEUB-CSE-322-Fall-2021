@@ -1,5 +1,5 @@
-# NEUB CSE 322 Fall 2021 Lab 3
-Find all Codes at  [Lab 3](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%203).
+# NEUB CSE 322 Fall 2021 Lab 2
+Find all Codes at  [Lab 2](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%202).
 ## Task 1
 Create a function to output PWM with a specified duty cycle to any given port. eg: ```pwm(port, dutyCycle);```.
 ```c
