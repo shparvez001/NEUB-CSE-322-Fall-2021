@@ -82,23 +82,20 @@ void loop() {
 ```
 
 ## Task 4
-Reading analong value using built-in ADC.
+Reading voltage using built-in ADC.
 ```c
-int sensorPin = A0;   
-int ledPin = 13;    
+int sensorPin = A0;  
 int sensorValue = 0; 
+float volt=0.0;
 
 void setup() {
-  pinMode(ledPin, OUTPUT);
+  Serial.begin(115200);
 }
 
 void loop() {
-  // read the value from the sensor:
   sensorValue = analogRead(sensorPin);
-  digitalWrite(ledPin, HIGH);
-  delay(sensorValue);
-  digitalWrite(ledPin, LOW);
-  delay(sensorValue);
+  volt=5*(float)sensorValue/1023;
+  Serial.println(volt);
 }
 ```
 
