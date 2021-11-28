@@ -14,3 +14,7 @@ CSE 322 class notebook.
 	2. Using EEPROM to store a pattern of LED and pulsing through the pattern.
 	3. Reading analong value using built-in ADC.
 	4. Reading voltage using built-in ADC.
+5. [Lab 5](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%205.md).
+	1. Using LDR as sensor.
+	2. Basic switch Operation.
+	3. Using switch with interrupt.
