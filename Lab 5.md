@@ -1,5 +1,6 @@
 # NEUB CSE 322 Fall 2021 Lab 5
 Find all Codes at  [Lab 5](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%205).
+![Lab 5 Task 1 Circuit](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%205/TASK_1_bb.png)
 ## Task 1
 Using LDR as sensor.
 ```c
