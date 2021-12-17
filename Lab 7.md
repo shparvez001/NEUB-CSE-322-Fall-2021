@@ -227,5 +227,4 @@ void loop() {
 2. Change the code in task 3 to include backward right, backward left and brake functionality.
 3. Make a video of driving 2 motors at 3 different speed using code of task 3.
 
-Submit through github classroom.
-[Submission link](https://classroom.github.com/a/QvJMZTzK)
+Submit through google classroom.
