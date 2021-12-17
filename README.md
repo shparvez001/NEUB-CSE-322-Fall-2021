@@ -23,7 +23,7 @@ CSE 322 class notebook.
 	2. Write a code to drive a dc motor with PWM using L298 motor driver.
 5. [Lab 7](https://github.com/shparvez001/NEUB-CSE-322-Fall-2021/tree/main/Lab%207.md).
 	1. Task 1: Basic motor driving code.
-  2. Motor Driving code with function.
+	2. Motor Driving code with function.
 	3. Motor Driving code with function with PWM.
 	4. Hometask1: Change the code in task 2 to include backward right, backward left and brake functionality.
 	5. Hometask2: Change the code in task 3 to include backward right, backward left and brake functionality.
